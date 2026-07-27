@@ -41,6 +41,14 @@ Before CompanyCam, I was an international PM at **Samsung**, shipping products t
 
 Right now I'm most excited about what agentic development does to the shape of a product team: smaller, faster, and far more capable than the old org charts assumed.
 
+## 🎙️ A little more about me
+
+I used to host a podcast. It's on pause now, but the back catalog is still up — and it says a lot about how I think.
+
+I started it because I believe **neurodivergence is a superpower.** I wanted to interview people who live that: I understand the challenges they face, but also how their neurodivergence becomes the setup for outsized success in life. That's my story too.
+
+🎧 **Listen:** [on Spotify](https://open.spotify.com/show/7EG5DqFJtlhbTG5tGFEvRn)
+
 ## Let's connect
 
 If you're building an AI-forward product org — or just want to compare notes on agentic development — I'd genuinely love to talk.
